@@ -1,0 +1,269 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+.container{
+	width:1180px;
+	margin:0 auto;
+	
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-lg-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+
+
+.logo{
+	background-color:red;
+	height:50px;
+	
+}
+.navbar{
+	background-color:red;
+	height:50px;
+	
+}
+.header{
+	background-color:black;
+	padding:10px 0;
+}
+
+
+.banner-content{
+	background-color:red;
+	height:230px;
+}
+.banner{
+	background-color:black;
+	height:500px;
+	padding:130px 0;
+	margin-top:20px;
+	
+}
+.logos{
+	background-color:red;
+	height:50px;
+
+}
+.client{
+	background-color:white;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.about{
+	background-color:green;
+	padding-top:60px;
+	padding-bottom:60px;
+}
+.about1{
+	background-color:red;
+	height:300px;
+}
+.about2{
+	background-color:red;
+	height:150px;
+	margin-bottom:30px;
+}
+
+.tab{
+	background-color:black;
+	padding-top:50px;
+	padding-bottom:50px;
+	margin-top:20px;
+}
+.tab-content{
+	background-color:red;
+	height:100px;
+}
+.content{
+	background-color:yellow;
+	padding-bottom:50px;
+	padding-top:5px;
+
+}
+.text-content{
+	background-color:blue;
+	height:300px;
+}
+.picture-content{
+	background-color:green;
+	height:350px;
+}
+.service{
+	background-color:grey;
+	padding:30px 0;
+	margin-top:20px;
+}
+.service-text{
+	background-color:blue;
+	height:120px;
+	margin-bottom:10px;
+}
+.service-box{
+	 background-color:red;
+	 height:100px;
+	 margin-bottom:20px;
+}
+.portfolio{
+	background-color:black;
+	padding-bottom:30px;
+	padding-top:30px;
+	margin-top:20px;
+}
+.portfolio-text{
+	background-color:blue;
+	height:100px;
+	margin-bottom:10px;
+}
+.portfolio-tab{
+	background-color:red;
+	height:40px;
+    margin-bottom:15px;
+}
+.portfolio-image{
+	background-color:red;
+	height:240px;
+	margin-bottom:20px;
+}
+.portfolio-menu{
+	padding-left:500px;
+}
+.price-tag{
+	background-color:red;
+	height:430px;
+}
+.faq-client{
+	background-color:red;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.faq-quiz{
+	background-color:black;
+	height:50px;
+}
+.faq-bar{
+	padding-left:350px;
+	margin-bottom:20px;
+}
+.faq-content{
+	background-color:black;
+	height:500px;
+}
+.our-team{
+	padding-left:530px;
+	padding-bottom:10px;
+	
+}
+.team-member{
+	background-color:red;
+	height:30px;
+	
+}
+.team-image{
+	background-color:red;
+	height:370px;
+	padding-bottom:20px;
+}
+.address{
+	background-color:red;
+	height:50px;
+	margin-bottom:20px;
+}
+.contact-address{
+	 background-color:red;
+	 height:230px;
+	 margin-bottom:20px;
+}
+.email{
+	background-color:red;
+	padding-bottom:10px;
+	height:200px;
+}
+.form{
+	background-color:red;
+	height:400px;
+	margin-bottom:20px;
+}
+.explore{
+	background-color:yellow;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.info{
+	background-color:red;
+	height:250px;
+	
+}
+.info1{
+	background-color:red;
+	height:350px;
+	
+}
+.info3{
+	background-color:red;
+	height:170px;
+
+}
+.logo{
+	background-color:red;
+	height:50px;
+	
+}
+.navbar{
+	background-color:red;
+	height:50px;
+	
+}
+.footer{
+	background-color:black;
+	padding:10px 0;
+}
