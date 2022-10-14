@@ -465,6 +465,7 @@ body{
     text-align: center;
     position: relative;
 	}
+	.text-content i{color:#e03a3c;}
 .service-box{
 	 margin-bottom: 20px;
     border: 1px solid black;
