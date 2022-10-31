@@ -1120,10 +1120,28 @@ padding-bottom:10px;}
 }
 .info1 p:hover{color:#fff;}
 .info3{
-	background-color:red;
+	background-color:#1b1b1b;
 	height:170px;
-
 }
+.info3{font-family:"Raleway", sans-serif;}
+.info3 h3{color:#fff;
+      margin-bottom:16px;
+	  }
+	  
+.info3 #fname{   
+     width: 70%;
+    height: 44px;
+    position: relative;
+    overflow: hidden;
+	
+	}	  
+.info3 #submit{
+	color: #fff;
+    background-color: red;
+    padding: 13px 14px 13px 21px;
+    position: absolute;
+    left: 73%;
+	}	  
 .logoss p{color: #fff;
 font-size: 12px;}
 .logoss a{
