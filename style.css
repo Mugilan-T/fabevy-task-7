@@ -175,6 +175,9 @@ body{
 	color:#111;
 	display:inline-block;
 }	
+.nav-list .active{
+	color:#e03a3c;
+}
 .navbar .menu-bar{
 	text-align:right;
 }
@@ -1135,13 +1138,20 @@ padding-bottom:10px;}
     overflow: hidden;
 	
 	}	  
-.info3 #submit{
+.info3 a{
 	color: #fff;
-    background-color: red;
-    padding: 13px 14px 13px 21px;
+    background-color:#e03a3c;
     position: absolute;
-    left: 73%;
+    top: 0px;
+    right: 29%;
+    bottom: 0px;
+	overflow:hidden;
 	}	  
+.frm{
+	position:relative;
+	overflow:hidden;
+	margin-top:20px;
+}	
 .logoss p{color: #fff;
 font-size: 12px;}
 .logoss a{
