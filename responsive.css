@@ -3,7 +3,7 @@
 	.d-xs-none{
 		display:none !important;
 	}
-.row{margin:0;}	
+	
 .row >*{width:100%;}
 	.col-1{
 	width:8.33%;
@@ -97,6 +97,8 @@
 .name input{width:116%;}
 .mail input{width:97%;}
 .form{height:450px;}
+.info{margin-bottom:20px;}
+.info1{margin-bottom:20px;}
 }
 
 

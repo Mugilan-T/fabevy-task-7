@@ -886,7 +886,8 @@ font-size:28px;}
 	
 }
 .extra{
-	border-bottom:1px solid black;
+	border-bottom: 1px solid #1b1b1b;
+    margin-bottom: 15px;
 }
 .price-tag span{
 	font-size:20px;
@@ -1148,7 +1149,7 @@ padding-bottom:10px;}
     height: 44px;
     position: relative;
     overflow: hidden;
-	
+	padding: 7px 114px 7px 4px;
 	}	  
 .info3 a{
 	color: #fff;
