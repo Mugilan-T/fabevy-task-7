@@ -3,7 +3,7 @@
 	.d-xs-none{
 		display:none !important;
 	}
-	
+.row{margin:0;}	
 .row >*{width:100%;}
 	.col-1{
 	width:8.33%;
