@@ -5,7 +5,7 @@
 	.d-xs-none{
 		display:none;
 	}
-.row{margin:0;}	
+
 .row >*{width:100%;}
 	.col-1{
 	width:8.33%;
@@ -134,6 +134,7 @@
 .footer{height:118px;}
 .logoss{margin-bottom:20px;}
 .faq-quiz h1{font-size:18px;}
+.port-text{width:auto;}
 }
 /*ipad mini...*/
 @media(min-width:768px){
@@ -341,9 +342,7 @@
 	width:100%;
 	padding:0 15px;
 }
-.banner-content{
-	 text-align:left;
-}
+
 .d-xs-none{
 	display:block;
 }
