@@ -71,9 +71,9 @@
         margin-bottom:0px;
 		text-align:center;
 }
-.banner-content{padding-top:16px;
+.banner-content{
            text-align:center;
-		   padding-top:62px;
+		   padding-top:108px;
 }
 .banner-content h1{font-size:30px;}
 .banner-content p{font-size:22px;}
@@ -283,9 +283,12 @@
 }
 .form{height:412px;}
 .info{margin-top:22px;}
-.name input{width:105%;}
-.mail input{width:111%;}
+.name input{width:132%;}
+.mail input{width:140%;}
 .name{margin-right:10px;}
+.mail{
+	margin-left:60px;
+}
 }
 /*..Large device...*/
 @media(min-width:1200px){
