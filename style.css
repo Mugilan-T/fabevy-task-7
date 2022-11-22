@@ -279,11 +279,12 @@ body{
 	background-size:cover;
 	background-position:center;
 	width:100%;
-	height:590px;
+	    padding-bottom: 280px;
+    padding-top: 170px;
       
 }
 .banner-content{
-	padding-top:140px;
+	padding-top:55px;
 	    font-family: "Raleway", sans-serif;
 }
 .banner-content ul li a{
@@ -391,6 +392,7 @@ body{
 	font-size: 20px;
     border-radius: 50px;
     box-shadow: 1px 1px 7px #1b1b1b;
+	background-color:#fff;
     padding: 10px;
     color: red;
     position: absolute;
@@ -459,6 +461,7 @@ body{
 	padding-bottom:10px;
 	
 }
+.run{display:flex;}
 .text-content .p1{
    color:#908e94;
    padding-bottom:12px;
@@ -529,23 +532,24 @@ body{
 .service-box{
 	 margin-bottom: 20px;
     border: 1px solid black;
+	border-radius:5px;
     background-color: black;
     position: relative;
     padding: 15px 13px 41px 10px;
-    padding-left: 60px;
+    padding-left:56px;
 }
 .service-box i{
     color: #e03a3c;
     font-size: 30px;
     position: absolute;
-    left: 15px;
+    left: 10px;
     top: 20px;
 }
 .border{
 	   position: absolute;
     width: 60px;
     background-color: red;
-    height: 5px;
+    height:3px;
     top: 26%;
     right: 48%;
     transform: translateX(12%);
@@ -725,11 +729,13 @@ padding-bottom: 20px;
 	overflow:hidden;
 }
 .portfolio-image1{
-	    height: 256px;
+	   
         box-shadow: 1px 1px 6px #999;
         position: relative;
         padding-top: 14px;
         padding-left: 14px;
+		padding-bottom:26px;
+		padding-right:10px;
 		font-family:"Raleway", sans-serif;
 		border-radius:10px;
 }
@@ -789,11 +795,12 @@ font-size:28px;}
 	margin-top:20px;
 }
 .timage{
-	height: 90px;
+
     width: 90px;
 }
 .timage img{
-     width:100%;
+     width:78%;
+	 border-radius:5px;
 }
 .portfolio-menu{
 	padding-left:500px;
@@ -801,18 +808,20 @@ font-size:28px;}
 
 .price-tag{
 	background-color:#2b2b2b;
-    height: 458px;
+    padding-bottom:12px;
     margin-bottom: 20px;
     text-align: center;
     padding-top: 22px;
 	border: 1px solid #2b2b2b;
+	border-radius:5px;
 }
 .price-tag-1{
 	background-color: #e03a3c;
-    height: 458px;
+    padding-bottom:12px;
     margin-bottom: 20px;
     text-align: center;
     padding-top: 22px;
+	border-radius:5px;
 }
 .prc1{
 	 color: #fff;
@@ -890,7 +899,7 @@ font-size:28px;}
 }
 .extra{
 	border-bottom: 1px solid #1b1b1b;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 .price-tag span{
 	font-size:20px;
@@ -915,8 +924,8 @@ font-size:28px;}
 }
 .team-link{
     position: absolute;
-    left: 16%;
-    bottom: 34%;
+    left: 31px;
+    bottom: 30%;
     transform: translateY(-16%);
 	transition:all 0.5s ease-out;
 	opacity:0;
@@ -957,13 +966,13 @@ transform:translateY(16%);}
 .team-image img{
 	width:100%;
 	display:block;
+	
 }
 .portfolio-text{
     margin-bottom: 11px;
 }
 .team-image{
-	height:370px;
-	padding-bottom:20px;
+	margin-bottom:20px;
 }
 .team-image h4{
     padding-left:10px;
@@ -998,7 +1007,7 @@ transform:translateY(16%);}
 
 .team-id{
 	background-color:#fff;
-	height:80px;
+	padding-bottom:14px;
 }
 
 
@@ -1010,11 +1019,12 @@ transform:translateY(16%);}
 	margin-bottom:20px;
 }
 .contact-address{
-	 box-shadow:1px 1px 25px #ccc;
-	 height:230px;
+	 box-shadow:1px 1px 8px #ccc;
+	 border-radius:5px;
 	 margin-bottom:20px;
 	 text-align:center;
-	 padding-top:50px;
+	 padding-top: 20px;
+    padding-bottom: 36px;
 }
 .contact-address p{
 	color:#1b1b1b;
@@ -1029,11 +1039,12 @@ padding-bottom:10px;}
 	padding:8px 12px 6px 11px;
 }
 .email{
-	 box-shadow:1px 1px 25px #ccc;
-	 height:230px;
+	 box-shadow:1px 1px 8px #ccc;
+	 border-radius:5px;
 	 margin-bottom:20px;
 	 text-align:center;
-	 padding-top:50px;
+	padding-top: 24px;
+    padding-bottom: 23px;
 }
 .email p{
 	color:#1b1b1b;
@@ -1049,45 +1060,39 @@ padding-bottom:10px;}
 	border-radius:50%;
 	padding: 9px 12px 9px 11px;
 }
-.name{
-	   margin-top: 25px;
-    margin-right: 60px;
-    margin-left: 25px;
-}
+
 .name input{ 
  padding: 13px 5px 11px 8px;
-    width: 135%;
+    width: 100%;
 	}
-.mail{
-	    margin-top:25px;
-    margin-right: 5px;
-    margin-left: 25px;
-}
+
 .mail input{  
       padding: 13px 5px 11px 8px;
-    width: 135%;
+    width: 100%;
 	}
 .subject{
 	margin-top:25px;
-	margin-left: 25px;
+	
 }
 .subject input{
-	width: 95%;
+	width: 100%;
     padding: 11px 3px 12px 8px;
 	}
 .msg{
 	margin-top:25px;
-	margin-left: 25px;
+	
 }
-.msg textarea{
-	width: 95%;
+.msg textarea {
+    width: 100%;
     height: 137px;
-    /*padding: 12px 10px 11px 8px;*/
+    padding: 12px 10px 11px 8px;
 }
+
 .btn{text-align:center;}
 .form{
-	box-shadow:1px 1px 25px #ccc;
-	height:400px;
+	box-shadow:1px 1px 8px #ccc;
+	border-radius:5px;
+	padding: 23px 18px 26px 18px;
 	margin-bottom:20px;
 }
 .form a{
@@ -1149,11 +1154,9 @@ padding-bottom:10px;}
 	  }
 	  
 .info3 #fname{   
-     width: 70%;
+     width:100%;
     height: 44px;
-    position: relative;
-    overflow: hidden;
-	padding: 7px 114px 7px 4px;
+	padding: 7px 107px 7px 4px;
 	}	  
 .info3 a{
 	color: #fff;
@@ -1200,7 +1203,12 @@ font-size: 12px;}
 	background-color:#e03a3c;
 }
 
-
+.frm button{
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:0;
+}
 
 
 

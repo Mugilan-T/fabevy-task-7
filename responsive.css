@@ -126,8 +126,9 @@
 }	
 .team{margin-top:10px;}	
 .team-image{margin-bottom:115px;}
-.name input{width:116%;}
-.mail input{width:97%;}
+.name{margin-bottom:16px;}
+.name input{width:100%;}
+.mail input{width:100%;}
 .form{height:450px;}
 .info{margin-bottom:20px;}
 .info1{margin-bottom:20px;}
@@ -208,10 +209,9 @@
 .banner-content{text-align:center;}
 .banner-content h1{font-size:36px;}
 .banner-content p{font-size:20px;}
-.team-image{height:452px;}
-.name{    margin-right: 142px;}
-.name input{width:170%;}
-.mail input{width:184%;}
+
+.name input{width:100%;}
+.mail input{width:100%;}
 .info1{margin-top:20px;}
 .info3{margin-top:25px;}
 }
@@ -277,18 +277,11 @@
 	font-size:18px;
 }
 .tab-content1 i{left:4%;}
-.team-link{
-	  left:5%;
-	  bottom:55%;
-}
-.form{height:412px;}
+
 .info{margin-top:22px;}
-.name input{width:132%;}
-.mail input{width:140%;}
-.name{margin-right:10px;}
-.mail{
-	margin-left:60px;
-}
+.name input{width:100%;}
+.mail input{width:100%;}
+
 }
 /*..Large device...*/
 @media(min-width:1200px){
