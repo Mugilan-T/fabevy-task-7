@@ -104,7 +104,7 @@ color:#fff;}
 	transition:all 0.3s ease;
 }
 .btns1:hover {
-	background-color:#464040;
+	background-color:rgb(51 53 56 / 90%);
 	border-color:#fff !important;
 }
 .btns3{
@@ -349,7 +349,7 @@ body{
 	color:#fff;
 }
 .about1 p{
-	padding-bottom:10px;
+	padding-bottom:20px;
 	font-size:17px;
 	color:#fff;
 }

@@ -1,6 +1,6 @@
 
 /*mobile device....*/
-@media(max-width:576px){
+@media(max-width:723px){
 	
 	.d-xs-none{
 		display:none;
@@ -138,7 +138,7 @@
 .port-text{width:auto;}
 }
 /*ipad mini...*/
-@media(min-width:768px){
+@media(min-width:724px){
 	.container{
 	width:767px;
 }
