@@ -1172,8 +1172,10 @@ padding-bottom:10px;}
 	overflow:hidden;
 	margin-top:20px;
 }	
-.logoss p{color: #fff;
-font-size: 12px;}
+.logoss p{
+	color: #fff;
+    font-size:16px;
+}
 .logoss a{
      	text-decoration:none;
 	  color:#e03a3c;
@@ -1194,7 +1196,7 @@ font-size: 12px;}
 }
 .footer{
 	background-color:black;
-	padding:10px 0px 10px 0px;
+	padding:20px 0px 20px 0px;
 	height:65px;
 }
 
